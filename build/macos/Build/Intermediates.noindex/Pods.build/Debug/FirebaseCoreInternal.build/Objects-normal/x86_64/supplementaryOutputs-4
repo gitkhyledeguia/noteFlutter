@@ -1,0 +1,15 @@
+"/Users/khyle/Developer/project1/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/Storage.swift":
+  diagnostics: "/Users/khyle/Developer/project1/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseCoreInternal.build/Objects-normal/x86_64/Storage.dia"
+  dependencies: "/Users/khyle/Developer/project1/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseCoreInternal.build/Objects-normal/x86_64/Storage.d"
+  object: "/Users/khyle/Developer/project1/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseCoreInternal.build/Objects-normal/x86_64/Storage.o"
+  swift-dependencies: "/Users/khyle/Developer/project1/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseCoreInternal.build/Objects-normal/x86_64/Storage.swiftdeps"
+"/Users/khyle/Developer/project1/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/StorageFactory.swift":
+  dependencies: "/Users/khyle/Developer/project1/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseCoreInternal.build/Objects-normal/x86_64/StorageFactory.d"
+  object: "/Users/khyle/Developer/project1/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseCoreInternal.build/Objects-normal/x86_64/StorageFactory.o"
+  swift-dependencies: "/Users/khyle/Developer/project1/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseCoreInternal.build/Objects-normal/x86_64/StorageFactory.swiftdeps"
+  diagnostics: "/Users/khyle/Developer/project1/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseCoreInternal.build/Objects-normal/x86_64/StorageFactory.dia"
+"/Users/khyle/Developer/project1/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/WeakContainer.swift":
+  swift-dependencies: "/Users/khyle/Developer/project1/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseCoreInternal.build/Objects-normal/x86_64/WeakContainer.swiftdeps"
+  diagnostics: "/Users/khyle/Developer/project1/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseCoreInternal.build/Objects-normal/x86_64/WeakContainer.dia"
+  dependencies: "/Users/khyle/Developer/project1/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseCoreInternal.build/Objects-normal/x86_64/WeakContainer.d"
+  object: "/Users/khyle/Developer/project1/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseCoreInternal.build/Objects-normal/x86_64/WeakContainer.o"

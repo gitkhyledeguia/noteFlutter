@@ -1,0 +1,26 @@
+version: "Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)"
+options: "ef51acd6a898ab503431a2e5b08588167f1a8bded8524e3d40ae2daf719c1501"
+build_start_time: [1687832483, 989003000]
+build_end_time: [1687832618, 700005000]
+inputs:
+  "/Users/khyle/Developer/project1/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/Heartbeat.swift": [1687832096, 395965582]
+  ? "/Users/khyle/Developer/project1/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatController.swift"
+  : [1687832096, 397432625]
+  ? "/Users/khyle/Developer/project1/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatLoggingTestUtils.swift"
+  : [1687832096, 398602250]
+  ? "/Users/khyle/Developer/project1/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatStorage.swift"
+  : [1687832096, 399152657]
+  ? "/Users/khyle/Developer/project1/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatsBundle.swift"
+  : [1687832096, 399649519]
+  ? "/Users/khyle/Developer/project1/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatsPayload.swift"
+  : [1687832096, 401342125]
+  "/Users/khyle/Developer/project1/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/RingBuffer.swift": [1687832096, 396499802]
+  "/Users/khyle/Developer/project1/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/Storage.swift": [1687832096, 395082404]
+  ? "/Users/khyle/Developer/project1/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/StorageFactory.swift"
+  : [1687832096, 401885701]
+  ? "/Users/khyle/Developer/project1/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/WeakContainer.swift"
+  : [1687832096, 400906836]
+  ? "/Users/khyle/Developer/project1/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/_ObjC_HeartbeatController.swift"
+  : [1687832096, 396956482]
+  ? "/Users/khyle/Developer/project1/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/_ObjC_HeartbeatsPayload.swift"
+  : [1687832096, 397950536]

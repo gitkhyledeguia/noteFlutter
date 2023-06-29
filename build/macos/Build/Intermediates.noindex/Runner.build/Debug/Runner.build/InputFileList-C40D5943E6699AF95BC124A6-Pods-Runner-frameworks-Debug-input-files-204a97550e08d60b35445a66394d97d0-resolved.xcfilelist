@@ -1,0 +1,16 @@
+/Users/khyle/Developer/project1/macos/Pods/Target Support Files/Pods-Runner/Pods-Runner-frameworks.sh
+/Users/khyle/Developer/project1/build/macos/Build/Products/Debug/BoringSSL-GRPC/openssl_grpc.framework
+/Users/khyle/Developer/project1/build/macos/Build/Products/Debug/FirebaseAppCheckInterop/FirebaseAppCheckInterop.framework
+/Users/khyle/Developer/project1/build/macos/Build/Products/Debug/FirebaseAuth/FirebaseAuth.framework
+/Users/khyle/Developer/project1/build/macos/Build/Products/Debug/FirebaseCore/FirebaseCore.framework
+/Users/khyle/Developer/project1/build/macos/Build/Products/Debug/FirebaseCoreInternal/FirebaseCoreInternal.framework
+/Users/khyle/Developer/project1/build/macos/Build/Products/Debug/FirebaseFirestore/FirebaseFirestore.framework
+/Users/khyle/Developer/project1/build/macos/Build/Products/Debug/FirebaseInstallations/FirebaseInstallations.framework
+/Users/khyle/Developer/project1/build/macos/Build/Products/Debug/GTMSessionFetcher/GTMSessionFetcher.framework
+/Users/khyle/Developer/project1/build/macos/Build/Products/Debug/GoogleUtilities/GoogleUtilities.framework
+/Users/khyle/Developer/project1/build/macos/Build/Products/Debug/PromisesObjC/FBLPromises.framework
+/Users/khyle/Developer/project1/build/macos/Build/Products/Debug/abseil/absl.framework
+/Users/khyle/Developer/project1/build/macos/Build/Products/Debug/gRPC-C++/grpcpp.framework
+/Users/khyle/Developer/project1/build/macos/Build/Products/Debug/gRPC-Core/grpc.framework
+/Users/khyle/Developer/project1/build/macos/Build/Products/Debug/leveldb-library/leveldb.framework
+/Users/khyle/Developer/project1/build/macos/Build/Products/Debug/nanopb/nanopb.framework

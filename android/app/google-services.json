@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "911628935073",
+    "project_id": "project1-khyle-flutter",
+    "storage_bucket": "project1-khyle-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911628935073:android:fc7e7bf9b82b70773d35e0",
+        "android_client_info": {
+          "package_name": "com.azrael.project1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "911628935073-mk6mccp3sq5d9ub0i6tecueealt30k59.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7Bl0wVP7_mdBu_VxueAkYYEzcJOIiFQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "911628935073-mk6mccp3sq5d9ub0i6tecueealt30k59.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

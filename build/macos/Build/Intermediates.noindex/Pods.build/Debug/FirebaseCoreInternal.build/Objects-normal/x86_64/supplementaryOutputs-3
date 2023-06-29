@@ -1,0 +1,15 @@
+"/Users/khyle/Developer/project1/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatsPayload.swift":
+  swift-dependencies: "/Users/khyle/Developer/project1/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseCoreInternal.build/Objects-normal/x86_64/HeartbeatsPayload.swiftdeps"
+  object: "/Users/khyle/Developer/project1/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseCoreInternal.build/Objects-normal/x86_64/HeartbeatsPayload.o"
+  diagnostics: "/Users/khyle/Developer/project1/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseCoreInternal.build/Objects-normal/x86_64/HeartbeatsPayload.dia"
+  dependencies: "/Users/khyle/Developer/project1/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseCoreInternal.build/Objects-normal/x86_64/HeartbeatsPayload.d"
+"/Users/khyle/Developer/project1/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/RingBuffer.swift":
+  diagnostics: "/Users/khyle/Developer/project1/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseCoreInternal.build/Objects-normal/x86_64/RingBuffer.dia"
+  swift-dependencies: "/Users/khyle/Developer/project1/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseCoreInternal.build/Objects-normal/x86_64/RingBuffer.swiftdeps"
+  dependencies: "/Users/khyle/Developer/project1/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseCoreInternal.build/Objects-normal/x86_64/RingBuffer.d"
+  object: "/Users/khyle/Developer/project1/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseCoreInternal.build/Objects-normal/x86_64/RingBuffer.o"
+"/Users/khyle/Developer/project1/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatStorage.swift":
+  dependencies: "/Users/khyle/Developer/project1/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseCoreInternal.build/Objects-normal/x86_64/HeartbeatStorage.d"
+  object: "/Users/khyle/Developer/project1/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseCoreInternal.build/Objects-normal/x86_64/HeartbeatStorage.o"
+  diagnostics: "/Users/khyle/Developer/project1/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseCoreInternal.build/Objects-normal/x86_64/HeartbeatStorage.dia"
+  swift-dependencies: "/Users/khyle/Developer/project1/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseCoreInternal.build/Objects-normal/x86_64/HeartbeatStorage.swiftdeps"
